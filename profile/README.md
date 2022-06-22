@@ -2,8 +2,10 @@
 
 - [x] Main Stack - Java EE
 - [x] Alternative Backend - Node Graphql
+- [x] ELK Stack
 - [ ] Old Front End - Java EE JSF
 - [x] Front End - Vue Js
+- [x] Mobile Android - Java
 <!--
 
 **Here are some ideas to get you started:**
