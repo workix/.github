@@ -1,5 +1,9 @@
-## Hi there 👋
+## Workix - Plataforma de Empregos Totalmente Grátis
 
+- [x] Main Stack - Java EE
+- [x] Alternative Backend - Node Graphql
+- [ ] Old Front End - Java EE JSF
+- [x] Front End - Vue Js
 <!--
 
 **Here are some ideas to get you started:**
